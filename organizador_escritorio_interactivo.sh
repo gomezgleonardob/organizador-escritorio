@@ -10,6 +10,10 @@ declare -A CATEGORIAS=(
     ["PDFs"]="pdf"
     ["Comprimidos"]="zip rar tar gz 7z"
     ["Scripts"]="sh py pl exe"
+    ["Media"]="mp4 avi flv"
+    ["Texto"]="csv txt"
+    ["Docs"]="docx odt"
+    ["Hojas"]="xlsx ods"
 )
 
 # Mostrar categorías actuales
